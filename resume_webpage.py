@@ -118,11 +118,7 @@ with st.container():
             :pushpin: Descent percentage of Time Management
             """
         )
-        st.write(
-            """
-            :pushpin: Time Management
-            """
-        )
+        
 
 
     with right_column:
